@@ -81,4 +81,7 @@ def main():
         
         st.success(f"Predicted Price: ₹{prediction:.2f} Lakhs")
 
+if __name__ == "__main__":
+    main()
+
 
